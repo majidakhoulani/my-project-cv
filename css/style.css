@@ -1,0 +1,160 @@
+@media (max-width:576px){
+    img{
+        width: 50% !important;
+    }
+  .d1{
+    font-size: xx-large !important;
+    text-align: left !important;
+  }
+  .d2{
+    margin-left: 30px !important;
+  }
+  .d6{
+    margin-bottom: -60px !important;
+  }
+  .d7{
+    padding: 0 !important;
+}
+.d4{
+   text-align: left !important;
+   font-size: 16px !important;
+  }
+  .part2{
+    padding:20px !important;
+  }
+  .part3{
+    padding-top: 20px !important;
+  }
+}
+@media (min-width:500px)and (max-width:580px){
+    ul li{
+        font-size: small !important;
+        text-align: left !important;
+        margin-bottom: 30px !important;
+    }
+}
+/* @media (min-width:600px)and (max-width:768px){
+    .d6{
+   margin-bottom: 118px !important;
+  }
+  
+} */
+/* @media (min-width:786px)and (max-width:914px){
+    .d6{
+   margin-bottom: 120px !important;
+  }
+  
+} */
+@media (min-width:748px)and (max-width:768px){
+    .d6{
+   margin-bottom: 118px !important;
+  }
+  
+}
+@media (min-width:576px) and (max-width:768px){
+  .d3{
+    font-size: medium !important;
+    margin-right: 50px !important;
+  }
+  .d4{
+   text-align: left !important;
+   font-size: 16px !important;
+  }
+  .d2{
+    margin-left: 30px !important;
+  }
+ 
+  /* .d6{
+   margin-bottom: 106px !important;
+  } */
+  
+  /* .d6{
+   margin-bottom: 50px !important;
+  }
+} */
+
+/* @media (min-width:965px) and (max-width:1012px){
+   .sec2{
+    margin-bottom: 100px;
+    margin-top: 30px;
+   }
+   .part2{
+height: 1189.42px;
+   }
+} */
+}
+@media (min-width:577px) and (max-width:600px){
+img{
+    width:50% !important;
+}
+.d1{
+    font-size: xx-large !important;
+    text-align: left !important;
+}
+.part2{
+    padding:20px !important;
+  }
+  .d6{
+    margin-bottom: -150px !important;
+  }
+}
+@media (min-width:600px) and (max-width:699px){
+.d6{
+    margin-bottom: -180px !important;
+  }
+}
+@media (min-width:769px) and (max-width:992px){
+/* img{
+    width:50% !important;
+} */
+/* .d1{
+    font-size: xx-large !important;
+    text-align: left !important;
+} */
+/* .part2{
+    padding:20px !important;
+  } */
+  .d6{
+   
+    margin-bottom: 100px !important;
+  }
+  .part3{
+    padding-top: 20px !important;
+  }
+}
+@media (min-width:769px)and (max-width:911px){
+    .d6{
+   margin-bottom: 249px !important;
+  }
+  .d4{
+   text-align: left !important;
+   font-size: 16px !important;
+  }
+  
+}
+/* @media (min-width:913px)and (max-width:924px){
+  
+    .d6{
+   margin-bottom: 200px !important;
+  }
+} */
+@media (min-width:925px)and (max-width:997px){
+    .d4{
+   text-align: left !important;
+   font-size: 16px !important;
+  }
+    /* .d6{
+   margin-bottom: 120px !important;
+  } */
+}
+/* 
+
+@media(max-width:1200px){
+    .d6{
+  
+   margin-bottom: 180px !important;
+  }
+} */
+.d6{
+    margin-top: 42px !important;
+}
